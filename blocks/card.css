@@ -8,6 +8,7 @@ padding: 0;
  display: flex;
  flex-direction: column;
  gap: 16px;
+ font-family: "Noto Serif" "Times New Roman", serif;
 }
 
 .card__title{
