@@ -6,6 +6,7 @@
   flex-direction: column;
   background-image: url(../images/background_header.svg);
   background-size: cover;
+  background-position: center;
   position: relative;
 }
 
@@ -30,6 +31,7 @@
 .header__span-accent {
   color: #3f96f3;
   display: block;
+  font-family: "Noto Serif", "Times New Roman", serif;
 }
 
 .header__description {
