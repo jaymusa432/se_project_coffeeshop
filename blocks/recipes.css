@@ -5,7 +5,7 @@
   background-image: url(../images/background_recipes.svg);
   background-position: center;
   background-size: cover;
-  font-family: 'Noto Serif', serif;
+  font-family: "Noto Serif", serif;
 }
 
 .recipes__title {
@@ -27,4 +27,9 @@
   display: flex;
   justify-content: space-between;
   list-style: none;
+}
+
+.recipes__iframe {
+  width: 560px;
+  height: 315px;
 }

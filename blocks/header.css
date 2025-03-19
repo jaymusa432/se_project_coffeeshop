@@ -34,7 +34,8 @@
   color: #3f96f3;
   display: block;
   font-family: "Noto Serif", "Times New Roman", serif;
-  font-weight: 400
+  font-weight: 400;
+  font-style: italic;
 }
 
 .header__description {
@@ -54,5 +55,7 @@
 
 .header__paragraph {
   margin-top: auto;
-  margin: 0
+  margin: 0;
+  font-weight: normal;
+  color: #3f96f3;
 }
