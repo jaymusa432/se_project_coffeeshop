@@ -7,28 +7,29 @@
   background-image: url(../images/background_menu.svg);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
-  font-family: "Inter"; 
-font-style: normal; 
-font-weight: 500; 
-font-size: 44px; 
-line-height: 52px;
-
+  background-size: cover; 
 }
-
 .menu__title {
-margin: 0 0 24px;
-font-family: "Noto Serif"; 
+margin: 0 0 24px; 
 font-style: normal; 
-font-weight: normal; 
-font-size: 20px; 
-line-height: 30px;
+font-weight: 500;  
+line-height: 52px;
+font-size: 44px;
 
 }
 
 .menu__subtitle {
-  margin: 0 0 100px;
+    font-family: "Noto Serif"; 
+    font-style: normal; 
+    font-weight: normal; 
+    font-size: 20px; 
+    line-height: 30px;
+    max-width: 780px;
+    text-align: center;
+    margin: 0 auto;
+
 }
+    
 
 .menu__cards {
   margin: 0;
