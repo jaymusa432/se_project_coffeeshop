@@ -56,6 +56,7 @@
 .header__paragraph {
   margin-top: auto;
   margin: 0;
-  font-weight: normal;
+  font-weight: 500;
   color: #6f6f6f;
+
 }
