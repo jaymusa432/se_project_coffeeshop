@@ -48,8 +48,5 @@
 }
 
 .form__label{
-margin-bottom: 32px;
-display: flex;
-gap: 8px;
-
+font-weight: 500;
 }
